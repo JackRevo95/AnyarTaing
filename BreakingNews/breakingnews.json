@@ -1,0 +1,43 @@
+{
+
+    "BreakingNews_DB":[
+
+       
+        {
+
+            "title":"Breaking News 1",
+            "content":"Breaking News Body",
+            "author":"Admin",
+            "urlToImage":"https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png",
+            "timeStamp":"1691678476267"
+
+        }, {
+
+            "title":"Breaking News 2",
+            "content":"Breaking News Body",
+            "author":"Admin",
+            "urlToImage":"https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png",
+            "timeStamp":"1691678476267"
+
+        }, {
+
+            "title":"Breaking News 3",
+            "content":"Breaking News Body",
+            "author":"Admin",
+            "urlToImage":"https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png",
+            "timeStamp":"1691678476267"
+
+        }, {
+
+            "title":"Breaking News 4",
+            "content":"Breaking News Body",
+            "author":"Admin",
+            "urlToImage":"https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png",
+            "timeStamp":"1691678476267"
+
+        }
+        
+        
+        
+    ]
+}
